@@ -25,4 +25,4 @@ func main() {
 # Note
 
 - If the `tt` tag is not present or if the value is nil, the field is skipped.
-- You should not use that package.
+- Made for fun after the GopherCon 2015 talk from @3rf and @shelman. You should not use that package.
